@@ -1,4 +1,4 @@
-#experīmentum(s)
+experīmentum(s)
 
 **Latin**
 
