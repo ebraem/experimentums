@@ -1,4 +1,4 @@
-experīmentum(s)
+experīmentum
 
 **Latin**
 
@@ -14,3 +14,6 @@ experīmentum n (genitive experīmentī); second declension
 
 test, trial, experiment
 experience
+
+**Plural**
+experīmentums
